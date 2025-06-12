@@ -1,0 +1,2 @@
+drone_following
+-DCATKIN_DEVEL_PREFIX=/swarm_ws/devel -DCMAKE_INSTALL_PREFIX=/swarm_ws/install -G Unix Makefiles

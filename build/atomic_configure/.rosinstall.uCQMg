@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /swarm_ws/devel/setup.sh

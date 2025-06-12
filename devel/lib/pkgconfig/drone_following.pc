@@ -1,0 +1,8 @@
+prefix=/swarm_ws/devel
+
+Name: drone_following
+Description: Description of drone_following
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
